@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="104.62" tests="12" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="127.284" tests="12" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/home/gitpod/.sdkman/candidates/java/11.0.13.fx-zulu/lib"/>
-    <property name="sun.java.command" value="/workspace/seleinumadvanced/AdvancedLambdaTest-main/target/surefire/surefirebooter133313309888917999.jar /workspace/seleinumadvanced/AdvancedLambdaTest-main/target/surefire 2022-02-22T05-58-15_316-jvmRun1 surefire6731773119169776160tmp surefire_02776549199970168114tmp"/>
+    <property name="sun.java.command" value="/workspace/seleinumadvanced/AdvancedLambdaTest-main/target/surefire/surefirebooter13647280607504799147.jar /workspace/seleinumadvanced/AdvancedLambdaTest-main/target/surefire 2022-02-22T09-12-55_907-jvmRun1 surefire18254516742783210353tmp surefire_017469124808103766220tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/workspace/seleinumadvanced/AdvancedLambdaTest-main/target/test-classes:/workspace/seleinumadvanced/AdvancedLambdaTest-main/target/classes:/workspace/m2-repository/org/seleniumhq/selenium/selenium-java/3.13.0/selenium-java-3.13.0.jar:/workspace/m2-repository/org/seleniumhq/selenium/selenium-api/3.13.0/selenium-api-3.13.0.jar:/workspace/m2-repository/org/seleniumhq/selenium/selenium-chrome-driver/3.13.0/selenium-chrome-driver-3.13.0.jar:/workspace/m2-repository/org/seleniumhq/selenium/selenium-edge-driver/3.13.0/selenium-edge-driver-3.13.0.jar:/workspace/m2-repository/org/seleniumhq/selenium/selenium-firefox-driver/3.13.0/selenium-firefox-driver-3.13.0.jar:/workspace/m2-repository/org/seleniumhq/selenium/selenium-ie-driver/3.13.0/selenium-ie-driver-3.13.0.jar:/workspace/m2-repository/org/seleniumhq/selenium/selenium-opera-driver/3.13.0/selenium-opera-driver-3.13.0.jar:/workspace/m2-repository/org/seleniumhq/selenium/selenium-remote-driver/3.13.0/selenium-remote-driver-3.13.0.jar:/workspace/m2-repository/org/seleniumhq/selenium/selenium-safari-driver/3.13.0/selenium-safari-driver-3.13.0.jar:/workspace/m2-repository/org/seleniumhq/selenium/selenium-support/3.13.0/selenium-support-3.13.0.jar:/workspace/m2-repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar:/workspace/m2-repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/workspace/m2-repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/workspace/m2-repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/workspace/m2-repository/com/google/code/gson/gson/2.8.4/gson-2.8.4.jar:/workspace/m2-repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/workspace/m2-repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/workspace/m2-repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/workspace/m2-repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/workspace/m2-repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/workspace/m2-repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/workspace/m2-repository/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar:/workspace/m2-repository/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar:/workspace/m2-repository/com/squareup/okhttp3/okhttp/3.10.0/okhttp-3.10.0.jar:/workspace/m2-repository/com/squareup/okio/okio/1.14.1/okio-1.14.1.jar:/workspace/m2-repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/workspace/m2-repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/workspace/m2-repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/workspace/m2-repository/org/apache/maven/surefire/surefire-testng-utils/2.21.0/surefire-testng-utils-2.21.0.jar:/workspace/m2-repository/org/apache/maven/surefire/surefire-grouper/2.21.0/surefire-grouper-2.21.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="jdk.vendor.version" value="Zulu11.52+13-CA"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/workspace/seleinumadvanced/AdvancedLambdaTest-main/target/surefire/surefirebooter133313309888917999.jar"/>
+    <property name="surefire.real.class.path" value="/workspace/seleinumadvanced/AdvancedLambdaTest-main/target/surefire/surefirebooter13647280607504799147.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.13+8-LTS"/>
     <property name="user.name" value="gitpod"/>
@@ -58,16 +58,16 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="scenarioOne" classname="com.lambdatest.Testng1" time="0.065"/>
-  <testcase name="scenarioOne" classname="com.lambdatest.Testng1" time="0.092"/>
-  <testcase name="scenarioOne" classname="com.lambdatest.Testng1" time="0.216"/>
+  <testcase name="scenarioOne" classname="com.lambdatest.Testng1" time="0.142"/>
+  <testcase name="scenarioOne" classname="com.lambdatest.Testng1" time="0.145"/>
   <testcase name="scenarioOne" classname="com.lambdatest.Testng1" time="0.127"/>
-  <testcase name="secondScenario" classname="com.lambdatest.Testng1" time="2.452"/>
-  <testcase name="secondScenario" classname="com.lambdatest.Testng1" time="4.584"/>
-  <testcase name="secondScenario" classname="com.lambdatest.Testng1" time="3.367"/>
-  <testcase name="secondScenario" classname="com.lambdatest.Testng1" time="6.019"/>
-  <testcase name="thirdScenario" classname="com.lambdatest.Testng1" time="0.728"/>
-  <testcase name="thirdScenario" classname="com.lambdatest.Testng1" time="2.033"/>
-  <testcase name="thirdScenario" classname="com.lambdatest.Testng1" time="1.952"/>
-  <testcase name="thirdScenario" classname="com.lambdatest.Testng1" time="3.182"/>
+  <testcase name="scenarioOne" classname="com.lambdatest.Testng1" time="0.096"/>
+  <testcase name="secondScenario" classname="com.lambdatest.Testng1" time="4.724"/>
+  <testcase name="secondScenario" classname="com.lambdatest.Testng1" time="3.186"/>
+  <testcase name="secondScenario" classname="com.lambdatest.Testng1" time="5.886"/>
+  <testcase name="secondScenario" classname="com.lambdatest.Testng1" time="5.225"/>
+  <testcase name="thirdScenario" classname="com.lambdatest.Testng1" time="1.904"/>
+  <testcase name="thirdScenario" classname="com.lambdatest.Testng1" time="3.619"/>
+  <testcase name="thirdScenario" classname="com.lambdatest.Testng1" time="3.286"/>
+  <testcase name="thirdScenario" classname="com.lambdatest.Testng1" time="1.802"/>
 </testsuite>
