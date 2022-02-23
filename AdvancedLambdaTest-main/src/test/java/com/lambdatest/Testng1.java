@@ -77,8 +77,8 @@ public class Testng1 {
   @Parameters({ "browser", "version", "platform" })
   public void setUpClass(String browser, String version, String platform) throws Exception {
 
-  	String username = "gomathiabi2000"; 
-		String accesskey = "WhzkcL3dvdA5Z54ESIk8QqsEqLIL3lPyF56uS2Xd18cVDiVtnZ"; 
+  	String username = "muthugomathis2024"; 
+		String accesskey = "j8SkC0xSV5Z90yk9gc9CCMVXhGisNzaiFNeBT6JKlUTBRne6UM"; 
 
   		DesiredCapabilities capability = new DesiredCapabilities();    	
         
